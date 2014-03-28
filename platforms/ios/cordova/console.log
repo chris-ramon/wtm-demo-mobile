@@ -1,0 +1,91 @@
+2014-03-21 13:04:03.887 WtmMobile[7853:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 13:04:03.996 WtmMobile[7853:70b] Unlimited access to network resources
+2014-03-21 13:04:05.513 WtmMobile[7853:70b] [CDVTimer][statusbar] 157.464981ms
+2014-03-21 13:04:05.513 WtmMobile[7853:70b] [CDVTimer][TotalPluginStartup] 157.943010ms
+2014-03-21 13:04:05.943 WtmMobile[7853:70b] Resetting plugins due to page load.
+2014-03-21 13:04:07.050 WtmMobile[7853:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
+2014-03-21 13:08:22.089 WtmMobile[8087:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 13:08:22.099 WtmMobile[8087:70b] Unlimited access to network resources
+2014-03-21 13:08:22.129 WtmMobile[8087:70b] [CDVTimer][statusbar] 7.682025ms
+2014-03-21 13:08:22.129 WtmMobile[8087:70b] [CDVTimer][TotalPluginStartup] 8.346975ms
+2014-03-21 13:08:22.263 WtmMobile[8087:70b] Resetting plugins due to page load.
+2014-03-21 13:08:23.530 WtmMobile[8087:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
+2014-03-21 16:05:48.679 WtmMobile[16461:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 16:05:49.534 WtmMobile[16461:70b] [CDVTimer][statusbar] 62.226951ms
+2014-03-21 16:05:49.534 WtmMobile[16461:70b] [CDVTimer][TotalPluginStartup] 62.693000ms
+2014-03-21 16:05:50.085 WtmMobile[16461:70b] Resetting plugins due to page load.
+2014-03-21 16:05:50.275 WtmMobile[16461:4203] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:05:50.275 WtmMobile[16461:4203] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:05:50.276 WtmMobile[16461:4203] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:05:50.548 WtmMobile[16461:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
+2014-03-21 16:06:39.598 WtmMobile[16461:4203] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:06:39.598 WtmMobile[16461:4203] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:06:39.599 WtmMobile[16461:4203] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:07:30.018 WtmMobile[16586:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 16:07:30.048 WtmMobile[16586:70b] [CDVTimer][statusbar] 6.637990ms
+2014-03-21 16:07:30.048 WtmMobile[16586:70b] [CDVTimer][TotalPluginStartup] 7.099032ms
+2014-03-21 16:07:30.082 WtmMobile[16586:70b] Resetting plugins due to page load.
+2014-03-21 16:07:30.100 WtmMobile[16586:3f03] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:07:30.100 WtmMobile[16586:3f03] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:07:30.101 WtmMobile[16586:3f03] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:07:30.224 WtmMobile[16586:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
+2014-03-21 16:08:11.662 WtmMobile[16586:3f03] bool _WebTryThreadLock(bool), 0xa330dd0: Multiple locks on web thread not allowed! Please file a bug. Crashing now...
+1   0x4c09e78 WebRunLoopLock(__CFRunLoopObserver*, unsigned long, void*)
+2   0x9d36e __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__
+3   0x9d2bf __CFRunLoopDoObservers
+4   0x7b17e __CFRunLoopRun
+5   0x7a9d3 CFRunLoopRunSpecific
+6   0x7a7eb CFRunLoopRunInMode
+7   0x4c09e40 RunWebThread(void*)
+8   0x260c5fb _pthread_body
+9   0x260c485 _pthread_struct_init
+10  0x2611cf2 thread_start
+2014-03-21 16:09:22.537 WtmMobile[16692:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 16:09:22.567 WtmMobile[16692:70b] [CDVTimer][statusbar] 7.055998ms
+2014-03-21 16:09:22.568 WtmMobile[16692:70b] [CDVTimer][TotalPluginStartup] 7.488012ms
+2014-03-21 16:09:22.600 WtmMobile[16692:70b] Resetting plugins due to page load.
+2014-03-21 16:09:22.619 WtmMobile[16692:4003] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:09:22.619 WtmMobile[16692:4003] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:09:22.620 WtmMobile[16692:4003] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:09:22.740 WtmMobile[16692:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
+2014-03-21 16:09:42.660 WtmMobile[16692:4003] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:09:42.660 WtmMobile[16692:4003] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:09:42.661 WtmMobile[16692:4003] ERROR whitelist rejection: url='http://wtm-lima.herokuapp.com/socket.io/socket.io.js?v=undefined'
+2014-03-21 16:10:15.749 WtmMobile[16791:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 16:10:15.756 WtmMobile[16791:70b] Unlimited access to network resources
+2014-03-21 16:10:15.781 WtmMobile[16791:70b] [CDVTimer][statusbar] 7.137001ms
+2014-03-21 16:10:15.782 WtmMobile[16791:70b] [CDVTimer][TotalPluginStartup] 7.683992ms
+2014-03-21 16:10:15.819 WtmMobile[16791:70b] Resetting plugins due to page load.
+2014-03-21 16:10:16.533 WtmMobile[16791:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
+2014-03-21 16:10:16.587 WtmMobile[16791:70b] cool!
+2014-03-21 16:17:04.228 WtmMobile[16971:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 16:17:04.234 WtmMobile[16971:70b] Unlimited access to network resources
+2014-03-21 16:17:04.257 WtmMobile[16971:70b] [CDVTimer][statusbar] 6.267011ms
+2014-03-21 16:17:04.258 WtmMobile[16971:70b] [CDVTimer][TotalPluginStartup] 6.691992ms
+2014-03-21 16:17:04.392 WtmMobile[16971:70b] Resetting plugins due to page load.
+2014-03-21 16:17:05.116 WtmMobile[16971:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
+2014-03-21 16:17:05.160 WtmMobile[16971:70b] cool!
+2014-03-21 16:20:24.847 WtmMobile[17208:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 16:20:24.853 WtmMobile[17208:70b] Unlimited access to network resources
+2014-03-21 16:20:24.874 WtmMobile[17208:70b] [CDVTimer][statusbar] 5.847991ms
+2014-03-21 16:20:24.874 WtmMobile[17208:70b] [CDVTimer][TotalPluginStartup] 6.305039ms
+2014-03-21 16:20:24.906 WtmMobile[17208:70b] Resetting plugins due to page load.
+2014-03-21 16:20:25.047 WtmMobile[17208:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
+2014-03-21 16:29:42.470 WtmMobile[17747:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 16:29:42.477 WtmMobile[17747:70b] Unlimited access to network resources
+2014-03-21 16:29:42.500 WtmMobile[17747:70b] [CDVTimer][statusbar] 6.938994ms
+2014-03-21 16:29:42.500 WtmMobile[17747:70b] [CDVTimer][TotalPluginStartup] 7.346988ms
+2014-03-21 16:29:42.532 WtmMobile[17747:70b] Resetting plugins due to page load.
+2014-03-21 16:29:42.721 WtmMobile[17747:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
+2014-03-21 16:49:25.297 WtmMobile[18399:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-21 16:49:25.303 WtmMobile[18399:70b] Unlimited access to network resources
+2014-03-21 16:49:25.332 WtmMobile[18399:70b] [CDVTimer][statusbar] 8.176029ms
+2014-03-21 16:49:25.333 WtmMobile[18399:70b] [CDVTimer][TotalPluginStartup] 8.771002ms
+2014-03-21 16:49:25.456 WtmMobile[18399:70b] Resetting plugins due to page load.
+2014-03-21 16:49:25.760 WtmMobile[18399:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
+2014-03-22 11:32:50.513 WtmMobile[1118:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-22 11:32:50.601 WtmMobile[1118:70b] Unlimited access to network resources
+2014-03-22 11:32:53.986 WtmMobile[1118:70b] [CDVTimer][statusbar] 170.464993ms
+2014-03-22 11:32:53.986 WtmMobile[1118:70b] [CDVTimer][TotalPluginStartup] 171.068013ms
+2014-03-22 11:32:54.152 WtmMobile[1118:70b] Resetting plugins due to page load.
+2014-03-22 11:32:54.820 WtmMobile[1118:70b] Finished load of: file:///Users/chris/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91DDC5FC-6552-41D9-BBD4-BFEFFC140670/WtmMobile.app/www/index.html#/tab/adopt
